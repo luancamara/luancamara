@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **iOS Development, swift and cool stuff**
 
-- 📫 How to reach me **luancamara@gmail.com**
+- 📫 Reach me in **luancamara@gmail.com**
 
 - 📄 Know about my experiences in my [Resume](https://raw.githubusercontent.com/luancamara/luancamara/main/Resume%20Luan%20Camara.pdf)
 
