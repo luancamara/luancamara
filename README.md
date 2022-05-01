@@ -1,17 +1,16 @@
 <h1 align="center">Hi! I'm Luan Câmara</h1>
-<h3 align="center">I have been developing iOS apps for more than 4 years and am a firm believer in code quality and architecture. I pride myself on clean and reusable code, with tests to prove it. I also have a knack for taking complicated problems and distilling them into clear communication that other developers will find easy to understand. Check out my work and get in contact with me to work together and build something amazing.</h3>
+
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/luancamara.png" alt="TryHackMe">
+</p>
+
+<h3 align="justify">I have been developing iOS apps for more than 4 years and am a firm believer in code quality and architecture. I pride myself on clean and reusable code, with tests to prove it. I also have a knack for taking complicated problems and distilling them into clear communication that other developers will find easy to understand. Check out my work and get in contact with me to work together and build something amazing.</h3>
 
 - 🔭 I’m currently working on [Bradesco Bank](https://apps.apple.com/br/app/banco-bradesco/id336954985)
-
 - 🌱 I’m currently learning **SwiftUI, AWS, Ethical Hacking**
-
 - 💬 Ask me about **iOS Development, swift and cool stuff**
-
 - 📫 Reach me in **luancamara@gmail.com**
-
 - 📄 Know about my experiences in my [Resume](https://raw.githubusercontent.com/luancamara/luancamara/main/Resume%20Luan%20Camara.pdf)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/luancamara.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
