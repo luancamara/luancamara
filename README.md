@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on [Bradesco Bank](https://apps.apple.com/br/app/banco-bradesco/id336954985)
 
-- 🌱 I’m currently learning **SwiftUI, AWS**
+- 🌱 I’m currently learning **SwiftUI, AWS, Ethical Hacking**
 
 - 💬 Ask me about **iOS Development, swift and cool stuff**
 
 - 📫 Reach me in **luancamara@gmail.com**
 
 - 📄 Know about my experiences in my [Resume](https://raw.githubusercontent.com/luancamara/luancamara/main/Resume%20Luan%20Camara.pdf)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/luancamara.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
