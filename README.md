@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Luan Câmara</h1>
 
 <p align="center">
-<script src="https://tryhackme.com/badge/1079005"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/luancamara.png" alt="TryHackMe">
 </p>
 
 <h3 align="justify">I have been developing iOS apps for more than 4 years and am a firm believer in code quality and architecture. I pride myself on clean and reusable code, with tests to prove it. I also have a knack for taking complicated problems and distilling them into clear communication that other developers will find easy to understand. Check out my work and get in contact with me to work together and build something amazing.</h3>
