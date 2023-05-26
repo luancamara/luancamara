@@ -21,6 +21,8 @@
 <a href="https://www.hackerrank.com/luancamara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="luancamara" height="30" width="40" /></a>
 </p>
 
+![snake gif](https://github.com/luancamara/luancamara/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 	<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
